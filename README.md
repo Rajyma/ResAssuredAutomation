@@ -30,7 +30,7 @@ Once you have same folder structure imported wait for a while until maven downlo
 ### It has following this implemented. 
 1. Base Class
 2. Test Case Class
-3. Listeners 
+3. Listeners Class
 
 Each Test Class has multiple test cases created . Also I have added comments in each class.
 
@@ -50,6 +50,7 @@ Select Run As >  TestNG Suite
 - Go to Reports Directory
 - Right click ExtentReport.html > Open With WebBrowser
 - This will open the ExtentReport.html in WebBrowser and it will show the entire test suite report
+<ROOT_PROJECT>/reports/index.html
 
 ![image](https://user-images.githubusercontent.com/26476263/162618695-fc7a47c5-70a2-4552-8186-fc7525276267.png)
 

@@ -22,7 +22,7 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 - Go to Eclipse > File > Import > Maven > Existing Maven Projects into Workspace
 - Click on Next 
 - Click on Browse
-- Select the Folder “RestApiTestingTest”
+- Select the Folder “RestApiTesting”
 - Click on Open
 - Click Finish
 

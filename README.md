@@ -1,4 +1,13 @@
 # API-Testing-REST-Assured-Framework
+
+**API** = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
+
+
+**Acceptance Criteria:**
+Name = "Carbon credits"
+CanRelist = true
+The Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category"
+
 # Steps to Import the project in eclipse and execute test suite 
 
 **Technology Used:**
@@ -36,7 +45,6 @@ Once you have same folder structure imported wait for a while until maven downlo
 2. Test Case Class
 3. Listeners Class
 
-Each Test Class has multiple test cases created . Also I have added comments in each class.
 
  **Steps to Run the Test suite using TestNG**
 

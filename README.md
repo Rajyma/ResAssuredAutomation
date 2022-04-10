@@ -10,7 +10,7 @@
 
 **Steps to import project**
 - Download repo from [https://github.com/Rajyma/RestAssuredAutomation] [RestApiTestingTest.zip]  unzip it
-- Go to Eclipse > File > Import > Existing Projects into Workspace
+- Go to Eclipse > File > Import > Maven > Existing Maven Projects into Workspace
 - Click on Next 
 - Click on Browse
 - Select the Folder “RestApiTestingTest”

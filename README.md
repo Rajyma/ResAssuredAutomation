@@ -47,7 +47,11 @@ Each Test Class has multiple test cases created . Also I have added comments in 
 Select Run As >  TestNG Suite
 
 
+
 ![image](https://user-images.githubusercontent.com/26476263/162620378-f3f22de1-0348-4da4-b657-0394435bc6e9.png)
+
+
+![image](https://user-images.githubusercontent.com/26476263/162620484-9b60c3dc-b616-47bf-b35f-54e3e5434f7f.png)
 
 
 *Note: Now your test suit is running. It will log all the success or errors on the eclipse console*

@@ -1,11 +1,11 @@
 # API-Testing-REST-Assured-Framework
 
-**API** = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
-
 
 **Acceptance Criteria:**
 Name = "Carbon credits"
+
 CanRelist = true
+
 The Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category"
 
 # Steps to Import the project in eclipse and execute test suite 

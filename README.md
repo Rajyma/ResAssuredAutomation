@@ -9,7 +9,7 @@
 **Github repository:**  https://github.com/Rajyma/RestAssuredAutomation
 
 **Steps to import project**
-- Download repo from [https://github.com/Rajyma/RestAssuredAutomation] [RestApiTestingTest.zip]  unzip it
+- Download repo from [https://github.com/Rajyma/RestAssuredAutomation] [RestAssuredAutomation.zip]  unzip it
 - Go to Eclipse > File > Import > Maven > Existing Maven Projects into Workspace
 - Click on Next 
 - Click on Browse
@@ -24,6 +24,10 @@ See Example below: This is the folder structure .
 
 **Note:**
 Once you have same folder structure imported wait for a while until maven download all the dependencies. 
+
+![image](https://user-images.githubusercontent.com/26476263/162620329-d7900cf4-0560-45a3-a677-735ff190a8d3.png)
+
+
 
 **Now you all set to run the project.**
 
@@ -41,6 +45,10 @@ Each Test Class has multiple test cases created . Also I have added comments in 
 
 - Right click on testng.xml file in the project directory level
 Select Run As >  TestNG Suite
+
+
+![image](https://user-images.githubusercontent.com/26476263/162620378-f3f22de1-0348-4da4-b657-0394435bc6e9.png)
+
 
 *Note: Now your test suit is running. It will log all the success or errors on the eclipse console*
 
